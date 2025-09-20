@@ -212,7 +212,7 @@ export default function AnaaghPortfolio() {
             href={"http://www.anaagh.com"}
             className="bg-indigo-600 text-white hover:bg-indigo-700"
           >
-            Get in Touch
+            Other Works
           </Button>
         </div>
       </main>
